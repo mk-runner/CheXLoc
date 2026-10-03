@@ -1,2 +1,2 @@
 # CheXLoc
-Learning localized visual representations from chest X-ray reports
+Learning localized visual representations from radiology reports for chest X-ray vision-language models
