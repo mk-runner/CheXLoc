@@ -1,6 +1,6 @@
 <div align="center">
 
-# CheXLoc: Learning Localized Visual Representations from Radiology Reports for Chest X-ray Vision–Language Models
+# Learning Localized Visual Representations from Radiology Reports for Chest X-ray Vision–Language Models
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg)](#-citation)   
 [![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](https://github.com/mk-runner/CheXLoc)   
