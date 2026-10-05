@@ -37,7 +37,7 @@ All token-level supervision is derived deterministically from radiology reports.
 We recommend using a dedicated Conda environment.
 
 ```bash
-conda create -n chexloc python=3.9
+conda create -n chexloc python=3.10
 conda activate chexloc
 
 pip install -r requirements.txt
@@ -48,7 +48,7 @@ The main dependencies include:
 ```text
 transformers==4.43.3
 radgraph==0.1.18
-torch==2.3.1+cu118
+torch==2.4.1
 ```
 
 Please refer to `requirements.txt` for the complete dependency list.
